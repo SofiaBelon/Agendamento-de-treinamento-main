@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SistemaGestaoTreinamentoApplication<sistema-gestao-treinamento>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.sistemagestaotreinamento.SistemaGestaoTreinamentoApplication",
+            "projectName": "sistema-gestao-treinamento",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
